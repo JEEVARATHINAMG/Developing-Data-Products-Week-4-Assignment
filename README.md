@@ -20,5 +20,7 @@ Use Slidify or RStudio Presenter to prepare a reproducible pitch presentation ab
 
 Links
 Source files available on GitHub: Github
-Shiny application available on shinyapps.io: App
+
+Shiny application available on shinyapps.io:Shiny App
+
 Presentation available on RPubs: presentation
