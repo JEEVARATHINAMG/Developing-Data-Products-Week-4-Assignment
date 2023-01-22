@@ -13,8 +13,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 This project was created for the Developing Data Products course as part of the Data Science Specialization offered through Coursera from Johns Hopkins University.
 
-The source code files for this project can be found on GitHub: <a target="_blank"
-href="https://github.com/JEEVARATHINAMG/Developing-Data-Products-Week-4-Assignment">GitHub</a>
+The source code files for this project can be found on GitHub:
+<https://github.com/JEEVARATHINAMG/Developing-Data-Products-Week-4-Assignment/blob/main/ddpw41.qmd>
 
 ## Course Project
 
@@ -22,7 +22,8 @@ The course project is a two part peer-graded assignment: - Create a Shiny applic
 
 -   Use Slidify or RStudio Presenter to prepare a reproducible pitch presentation about your application.
 
-The name of the Shiny application developed for this project is the **Motor Trend Data Analysis Application** and is hosted on RStudio's shinyapps.io hosted service: <a target="_blank"href="https://gjeevarathinam.shinyapps.io/DDPW4/">Shiny App</a>
+The name of the Shiny application developed for this project is the **Motor Trend Data Analysis Application** and is hosted on RStudio's shinyapps.io hosted service: 
+<https://gjeevarathinam.shinyapps.io/DDPW4/>
 
 ## Motor Trend Data Analysis Application
 
